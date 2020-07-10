@@ -1,5 +1,5 @@
 {
-  "name": "express-websocket",
+  "name": "express-websocket2",
   "version": "0.0.2",
   "description": "Use express middleware before initiating websocket connection",
   "main": "index.js",
@@ -26,7 +26,10 @@
     "connect",
     "middleware"
   ],
-  "repository": "https://github.com/olalonde/express-websocket",
+  "repository": "https://github.com/alexanderankin/express-websocket",
+  "bugs": {
+    "url": "https://github.com/olalonde/express-websocket/issues"
+  },
   "author": "Olivier Lalonde <olalonde@gmail.com>",
   "license": "MIT"
 }
